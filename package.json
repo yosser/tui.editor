@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "yosser.tui",
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.8.3",
